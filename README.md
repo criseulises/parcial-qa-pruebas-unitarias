@@ -28,6 +28,29 @@ El proyecto contiene los siguientes archivos:
 
 ---
 
+## **Casos de Prueba Implementados**
+
+| # | Caso de Prueba | Descripción | Resultado Esperado |
+|---|--------------|-------------|--------------------|
+| 1 | Obtener todos los posts | Validar que la API devuelva una lista de posts | Código 200 y lista con datos |
+| 2 | Obtener un post por ID | Consultar un post específico por su ID | Código 200 y objeto con el ID solicitado |
+| 3 | Obtener comentarios de un post | Validar que se obtienen los comentarios asociados a un post | Código 200 y lista de comentarios |
+| 4 | Obtener todos los usuarios | Verificar la lista de usuarios registrados en la API | Código 200 y lista de usuarios |
+| 5 | Obtener un usuario por ID | Consultar un usuario específico por su ID | Código 200 y datos del usuario |
+| 6 | Obtener los álbumes de un usuario | Verificar los álbumes asociados a un usuario | Código 200 y lista de álbumes |
+| 7 | Obtener las fotos de un álbum | Validar la lista de fotos dentro de un álbum | Código 200 y lista de fotos |
+| 8 | Crear un nuevo post | Enviar un nuevo post y verificar la respuesta | Código 201 y objeto creado |
+| 9 | Crear un nuevo comentario en un post | Publicar un comentario en un post y validar la respuesta | Código 201 y comentario creado |
+| 10 | Actualizar un post existente | Modificar un post y verificar la actualización | Código 200 y objeto actualizado |
+| 11 | Actualizar parcialmente un post con PATCH | Modificar parcialmente un post | Código 200 y campo modificado |
+| 12 | Eliminar un post | Intentar eliminar un post existente | Código 200 y objeto vacío |
+| 13 | Verificar error en un usuario inexistente | Consultar un usuario que no existe | Código 404 |
+| 14 | Intentar crear un post sin datos | Enviar un post vacío y validar la respuesta | Código 201 (JSONPlaceholder asigna valores predeterminados) |
+| 15 | Intentar eliminar un usuario inexistente | Intentar eliminar un usuario que no existe | Código 200 y objeto vacío |
+
+
+---
+
 ## **Tecnologías Utilizadas**
 - **Node.js** → Entorno de ejecución.
 - **Jest** → Framework de pruebas unitarias.
