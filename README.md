@@ -75,9 +75,8 @@ Esto generará un reporte detallado de las pruebas y mostrará los logs de las r
 ---
 
 ## **Enlace al Documento de Pruebas**
-[🔗 **Documento de Pruebas (PDF)**](https://unibedom-my.sharepoint.com/my?id=%2Fpersonal%2Fcsanchez32%5Fest%5Funibe%5Fedu%5Fdo%2FDocuments%2F25%2D0688%20Primer%20Parcial%2FCristian%20Sanchez%2025%2D0688%20%2D%20Actividad%20final%20primer%20parcial%2Epdf&parent=%2Fpersonal%2Fcsanchez32%5Fest%5Funibe%5Fedu%5Fdo%2FDocuments%2F25%2D0688%20Primer%20Parcial&ga=1)
-
+<a href="https://unibedom-my.sharepoint.com/:b:/g/personal/csanchez32_est_unibe_edu_do/EdOik35dG0pBmv2YXWgA-hsBb8VIchDjm3Eqria6j3IhdA?e=awjYKY" target="_blank">🔗 <strong>Resumen - Actividad final primer parcial (PDF)</strong></a>
 ---
 
-✍️ **Cristian Eulises Sánchez Ramírez - 25-0688**
+✍️ **Cristian Eulises Sánchez Ramírez | 25-0688**
 
